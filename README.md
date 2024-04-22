@@ -25,8 +25,15 @@ https://www.youtube.com/@CoinBureau
 
 [https://www.youtube.com/watch?v=5Gv6PstA6jI](https://youtu.be/5Gv6PstA6jI?si=0l0W7G_lttiWRIIF)
 
-## Tools
+https://youtu.be/rheYU5Q3-Uk?si=g45nk1EmtHu1uOgm
 
+https://youtu.be/s3MxJVprlnc?si=fMSzi32-1WhOq4_8
+
+## Tools
+Blockchain explorers
+
+
+Transaction/Wallet Tracing
 
 ### News
 https://www.coindesk.com/
