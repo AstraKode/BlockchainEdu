@@ -1,34 +1,7 @@
 ## Section 1: Blockchain-basics
-## Subsection 1.1: History
-## Subsection 1.2: Articles
-## Subsection 1.3: Videos 
-## Subsection 1.4: Tools
-## Section 2: Blockchain-news
-## Section 3: Technical-tutorials
-## Subsection 3.1: Smart-contracts
-## Subsection 3.2: Dapp-development
-## Section 4: Use-cases
-##  Subsection 4.1: Supply-chain
-## Subsection 4.2: Real-estate
-## Section 5: Resources
-### Subsection 5.1: Books
-### Subsection 5.2: Researches
-## Subsection 5.3: Courses
-## Subsection 5.4: Websites
-## Section 6: Community
-## Subsection 6.1: FAQ.md
-## Subsection 6.2: Forum-links
-
-
-
-
-# Educational materials
-
 This section is dedicated towards providing materials and resouces in understanding Blockchain, some of its basic components.
 
-## History
-
-
+### Subsection 1.1: History
 Blockchain technology, first proposed in the early 1980s, gained practical implementation with the advent of Bitcoin, the pioneering public blockchain. Essentially, a blockchain serves as a digital, decentralized ledger, operating on the premise of network support by nodes. Transactions or events within a blockchain require validation by these nodes. Once approved, the transaction becomes immutable, meaning it cannot be altered.
 
 In 2008, during Bitcoin's early stages, an anonymous internet user under the pseudonym Satoshi Nakamoto published Bitcoin's whitepaper, outlining the technology and its potential use cases. Blockchain transactions utilize cryptographic algorithms for validation, with Bitcoin employing a consensus mechanism known as proof of work, which involves solving mathematical problems. This mechanism has undergone several modifications, with other blockchains adopting variants, notably Ethereum, which employs a different consensus system called proof of stake.
@@ -38,14 +11,15 @@ While specific details may vary, the fundamental concept remains consistent: val
 A crucial component of blockchains is the concept of smart contracts, which are self-executing, programmable contracts integrated into the blockchain. This integration allows for the realization of the advantages of decentralized ledger technology (DLT). Blockchain types vary, encompassing Public chains, characterized by universal data transparency, Private chains, which restrict access to permissioned users, and Consortium Blockchains, a hybrid type enabling public and private access to specific individuals and aspects.
 
 
-## Articles
+### Subsection 1.2: Articles
 
-
-
-## Videos
-The following youtube channel is the largest and most popular youtube account discussing and educating Blockchain and cryptocurrency related news.
+### Subsection 1.3: Videos and Creators 
+The following youtube channel is the largest and most popular youtube account discussing and educating all things related to Blockchain and cryptocurrency. From news to latests innovations CoinBureau is a must watch for any Blockchain enthusiast or professional!
 
 https://www.youtube.com/@CoinBureau
+
+
+Helpful Videos outlining some basic components
 
 [https://www.youtube.com/watch?v=5Gv6PstA6jI](https://youtu.be/5Gv6PstA6jI?si=0l0W7G_lttiWRIIF)
 
@@ -53,12 +27,82 @@ https://youtu.be/rheYU5Q3-Uk?si=g45nk1EmtHu1uOgm
 
 https://youtu.be/s3MxJVprlnc?si=fMSzi32-1WhOq4_8
 
-## Tools
+
+
+### Subsection 1.4: Tools
+
 Blockchain explorers
-
-
 Transaction/Wallet Tracing
 
-### News
+## Section 2: Blockchain-news
+
+The following websites are specialized news outlets in all things related to Web3, cryptocurrencie developments and regulatory updates regarding blockchains. As leaders, Any blockchain related headline usually pops up there before major publications and frequesnt vists are useful in order to get a comprehensive industry outlook.
+
+1. CoinDesk
 https://www.coindesk.com/
+
+2. Cointelegraph
 https://cointelegraph.com/
+
+
+## Section 3: Technical-tutorials
+## Subsection 3.1: Smart-contracts
+Welcome to our educational repository on smart contracts, your go-to resource for mastering the intricacies of blockchain-based programmable agreements. Dive into our comprehensive collection of tutorials, code snippets, and best practices meticulously curated by experts in the field. Whether you're a novice eager to explore the fundamentals or a seasoned developer seeking advanced techniques, our repository offers a structured learning path to empower you in understanding, creating, and deploying smart contracts across various blockchain platforms. Join our community of enthusiasts, collaborate on projects, and unlock the transformative potential of decentralized applications with confidence and expertise.
+
+Smart contracts are self-executing contracts with the terms of the agreement directly written into code. They run on blockchain networks, which ensure their immutable execution and decentralization. Essentially, smart contracts automate and enforce the negotiation or performance of a contract, eliminating the need for intermediaries and increasing transparency and security in transactions. These contracts are triggered by predefined conditions coded into them, and once these conditions are met, the contract executes automatically. Smart contracts have broad applications, ranging from financial transactions and supply chain management to decentralized applications (DApps) and tokenization of assets. They are revolutionizing industries by streamlining processes, reducing costs, and enhancing trust in digital interactions.
+
+## Subsection 3.2: Dapp-development
+
+Developing decentralized applications (DApps) involves several key steps to ensure their functionality, security, and usability. Here's a basic outline of the process:
+
+1. Define the Concept: Clearly define the purpose and functionality of your DApp. Identify the problem it solves or the value it provides to users within a decentralized environment.
+
+2. Choose a Blockchain Platform: Select a suitable blockchain platform for your DApp based on factors such as scalability, consensus mechanism, development tools, and community support. Popular choices include Ethereum, Binance Smart Chain, and Polkadot.
+
+3. Design Smart Contracts: Develop smart contracts that govern the logic and rules of your DApp. This involves coding in a blockchain-specific language like Solidity (for Ethereum) or Vyper. Ensure that the smart contracts are secure, efficient, and audited to prevent vulnerabilities.
+
+4. Develop Frontend Interface: Design and develop the user interface (UI) for your DApp, including web or mobile interfaces. Use frameworks like React.js or Angular.js for frontend development to create a seamless user experience.
+
+5. Implement Backend Infrastructure: Set up the necessary backend infrastructure to interact with the blockchain network. This may involve deploying nodes, setting up API endpoints, and integrating with blockchain data sources.
+
+6. Test and Debug: Thoroughly test your DApp to identify and fix any bugs or issues. Conduct unit tests, integration tests, and end-to-end tests to ensure the reliability and security of your application.
+
+7. Deploy to Testnet: Deploy your DApp to a testnet environment (e.g., Ropsten for Ethereum) for further testing and validation. Testnet deployments simulate the conditions of the mainnet without incurring real transaction costs.
+
+8. Security Audit: Conduct a security audit of your DApp, including smart contracts, frontend code, and backend infrastructure. Engage with third-party security experts or auditing firms to identify and mitigate potential vulnerabilities.
+
+9. Deploy to Mainnet: Once your DApp passes testing and security audits, deploy it to the mainnet for public use. Mainnet deployment involves real transactions and interactions with actual users, so ensure that everything is thoroughly vetted and ready for production.
+
+10. Community Engagement: Engage with the blockchain community to promote your DApp, gather feedback from users, and address any issues or feature requests. Continuously iterate and improve your DApp based on user feedback and market dynamics.
+By following these steps, you can successfully develop and deploy a decentralized application that leverages the power of blockchain technology to provide innovative solutions to real-world problems.
+
+
+## Section 4: Use-cases
+
+Below are some basic and simple use cases for decentralized applications (DApps).These use cases demonstrate the versatility and potential of decentralized applications in various industries, offering solutions that are secure, transparent, and efficient, while empowering users with greater control and autonomy over their digital interactions and assets.
+
+Decentralized Voting System: Develop a DApp for conducting secure and transparent elections or polls. Users can cast their votes through the DApp, and the results are recorded immutably on the blockchain, ensuring tamper-proof and auditable voting records.
+
+Supply Chain Tracking: Create a DApp to track the journey of products through the supply chain, from production to delivery. Each step of the process is recorded on the blockchain, providing stakeholders with real-time visibility into the movement and status of goods, reducing fraud and ensuring authenticity.
+
+
+Tokenized Rewards Program: Build a DApp that allows businesses to create tokenized rewards programs for their customers. Users can earn tokens for making purchases or engaging with the business, which can be redeemed for discounts, products, or services, all recorded transparently on the blockchain.
+
+
+Decentralized File Storage: Develop a DApp for decentralized file storage, where users can securely store and share files without relying on centralized servers. Files are encrypted and distributed across the blockchain network, ensuring data integrity and privacy.
+
+
+Peer-to-Peer Lending Platform: Create a DApp that facilitates peer-to-peer lending without intermediaries. Users can lend or borrow funds directly from each other, with smart contracts automatically enforcing loan terms and facilitating repayments, reducing the need for traditional financial institutions.
+
+
+Decentralized Social Networking: Build a DApp for decentralized social networking, where users have full control over their data and interactions. Users can connect with others, share content, and participate in communities, with their activities recorded transparently on the blockchain to prevent censorship and data manipulation.
+
+
+Tokenized Asset Exchange: Develop a DApp for tokenizing and trading real-world assets such as real estate, art, or commodities. Users can buy, sell, and trade fractional ownership of assets, with ownership records stored securely on the blockchain, enabling greater liquidity and accessibility to investment opportunities.
+
+
+These use cases demonstrate the versatility and potential of decentralized applications in various industries, offering solutions that are secure, transparent, and efficient, while empowering users with greater control and autonomy over their digital interactions and assets.
+
+## Section 5: Resources
+## Subsection 6.1: FAQ.md
+## Subsection 6.2: Forum-links
