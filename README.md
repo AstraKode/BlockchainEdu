@@ -1,3 +1,27 @@
+## Section 1: Blockchain-basics
+## Subsection 1.1: History
+## Subsection 1.2: Articles
+## Subsection 1.3: Videos 
+## Subsection 1.4: Tools
+## Section 2: Blockchain-news
+## Section 3: Technical-tutorials
+## Subsection 3.1: Smart-contracts
+## Subsection 3.2: Dapp-development
+## Section 4: Use-cases
+##  Subsection 4.1: Supply-chain
+## Subsection 4.2: Real-estate
+## Section 5: Resources
+### Subsection 5.1: Books
+### Subsection 5.2: Researches
+## Subsection 5.3: Courses
+## Subsection 5.4: Websites
+## Section 6: Community
+## Subsection 6.1: FAQ.md
+## Subsection 6.2: Forum-links
+
+
+
+
 # Educational materials
 
 This section is dedicated towards providing materials and resouces in understanding Blockchain, some of its basic components.
