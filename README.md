@@ -35,8 +35,25 @@ __Helpful Videos outlining some basic components__
 
 ### Subsection 1.4: Tools
 
-Blockchain explorers
-Transaction/Wallet Tracing
+Blockchain explorers are tools to view and explore all the information on a blockchain including, transactions, blocks, addresses, and network metrics.
+
+Ethereum (ETH)
+[EthScan](https://etherscan.io/)
+
+Solana (SOL)
+[SolScan](https://solscan.io/)
+
+Bitcoin (BTC)
+[BTCScan](https://btcscan.org/)
+
+
+
+##Transaction/Wallet Tracing##
+Interacting direclty on chain can be a tricky experience. There is still much room for increased user protection and security. Therefore understanding smart contracts that you and your wallets interact is very important. In addition because the information in public blockchains its a public a good practice to personally verify instead of trust! The tools below help verify transactions, documentation and smartcontract history. Useful for due dilligence and general onchain awareness.
+
+1. [Arkham Intelligence](https://www.arkhamintelligence.com/)
+
+2. [Metasleuth](https://metasleuth.io/)
 
 ## Section 2: Blockchain-news
 
@@ -107,5 +124,19 @@ Tokenized Asset Exchange: Develop a DApp for tokenizing and trading real-world a
 These use cases demonstrate the versatility and potential of decentralized applications in various industries, offering solutions that are secure, transparent, and efficient, while empowering users with greater control and autonomy over their digital interactions and assets.
 
 ## Section 5: Resources
+
+**Books**
+Blockchain Technology Explained
+The Basics of Bitcoins and Blockchains
+Blockchain Bubble or Revolution
+Bitcoin Clarity
+Inventing Bitcoin
+Mastering Bitcoin: Unlocking Digital Cryptocurrencies
+
+
 ## Subsection 6.1: FAQ.md
 ## Subsection 6.2: Forum-links
+
+Given the dynamic and quick event pace in the Blockchain industry its important to be monitor the latest regulatory developments. [EU Commission](https://blockchain-observatory.ec.europa.eu/reports_en) is a good place to start.
+
+
