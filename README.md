@@ -1,4 +1,4 @@
-![image](https://github.com/AstraKode/Edu/assets/166728920/efc7d28f-0134-45e0-b143-4eae1053c13e)## Section 1: Blockchain-basics
+## Section 1: Blockchain-basics
 This section is dedicated towards providing materials and resouces in understanding Blockchain, some of its basic components.
 
 ### Subsection 1.1: History
@@ -17,18 +17,19 @@ A crucial component of blockchains is the concept of smart contracts, which are 
 ### Subsection 1.2: Articles
 
 ### Subsection 1.3: Videos and Creators 
-The following youtube channel is the largest and most popular youtube account discussing and educating all things related to Blockchain and cryptocurrency. From news to latests innovations CoinBureau is a must watch for any Blockchain enthusiast or professional!
+The following youtube channel, [CoinBureau](https://www.youtube.com/@CoinBureau) is the largest and most popular youtube account discussing and educating all things related to Blockchain and cryptocurrency. From news to latests innovations CoinBureau is a must watch for any Blockchain enthusiast or professional!
 
-https://www.youtube.com/@CoinBureau
+__Helpful Videos outlining some basic components__
+
+[Blockchain explained: The technology that’s transforming the world of finance](https://www.youtube.com/watch?v=rheYU5Q3-Uk&ab_channel=euronews)
+
+[New to DeFi? Decentralised Wallets vs. Centralised Wallets Explained](https://www.youtube.com/watch?v=s3MxJVprlnc&ab_channel=CryptoCom)
+
+[10 BEST Bitcoin Valuation Metrics & Tools](https://www.youtube.com/watch?v=5Gv6PstA6jI&ab_channel=CoinBureau)
 
 
-Helpful Videos outlining some basic components
 
-[https://www.youtube.com/watch?v=5Gv6PstA6jI](https://youtu.be/5Gv6PstA6jI?si=0l0W7G_lttiWRIIF)
 
-https://youtu.be/rheYU5Q3-Uk?si=g45nk1EmtHu1uOgm
-
-https://youtu.be/s3MxJVprlnc?si=fMSzi32-1WhOq4_8
 
 
 
@@ -41,11 +42,10 @@ Transaction/Wallet Tracing
 
 The following websites are specialized news outlets in all things related to Web3, cryptocurrencie developments and regulatory updates regarding blockchains. As leaders, Any blockchain related headline usually pops up there before major publications and frequesnt vists are useful in order to get a comprehensive industry outlook.
 
-1. CoinDesk
-https://www.coindesk.com/
+1. [CoinDesk](https://www.coindesk.com/)
 
-2. Cointelegraph
-https://cointelegraph.com/
+
+2. [Cointelegraph](https://cointelegraph.com/)
 
 
 ## Section 3: Technical-tutorials
