@@ -1,4 +1,4 @@
-## Section 1: Blockchain-basics
+![image](https://github.com/AstraKode/Edu/assets/166728920/efc7d28f-0134-45e0-b143-4eae1053c13e)## Section 1: Blockchain-basics
 This section is dedicated towards providing materials and resouces in understanding Blockchain, some of its basic components.
 
 ### Subsection 1.1: History
@@ -9,6 +9,9 @@ In 2008, during Bitcoin's early stages, an anonymous internet user under the pse
 While specific details may vary, the fundamental concept remains consistent: validators must reach consensus on transaction events for the network to recognize them. Consequently, terms like BTC and blockchain have become ubiquitous. However, blockchains can manifest in various forms and types, with constant innovations enhancing existing chains and introducing new ones.
 
 A crucial component of blockchains is the concept of smart contracts, which are self-executing, programmable contracts integrated into the blockchain. This integration allows for the realization of the advantages of decentralized ledger technology (DLT). Blockchain types vary, encompassing Public chains, characterized by universal data transparency, Private chains, which restrict access to permissioned users, and Consortium Blockchains, a hybrid type enabling public and private access to specific individuals and aspects.
+
+![image](https://github.com/AstraKode/Edu/assets/166728920/81752409-7a18-49cc-97b0-dea6470867b3)
+
 
 
 ### Subsection 1.2: Articles
