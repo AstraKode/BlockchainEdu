@@ -16,6 +16,10 @@ A crucial component of blockchains is the concept of smart contracts, which are 
 
 ### Subsection 1.2: Articles
 
+
+
+
+
 ### Subsection 1.3: Videos and Creators 
 The following youtube channel, [CoinBureau](https://www.youtube.com/@CoinBureau) is the largest and most popular youtube account discussing and educating all things related to Blockchain and cryptocurrency. From news to latests innovations CoinBureau is a must watch for any Blockchain enthusiast or professional!
 
@@ -35,7 +39,7 @@ __Helpful Videos outlining some basic components__
 
 ### Subsection 1.4: Tools
 
-Blockchain explorers are tools to view and explore all the information on a blockchain including, transactions, blocks, addresses, and network metrics.
+Blockchain explorers are tools to view and explore all the information on a blockchain including, transactions, blocks, addresses, and network metrics. Its useful to think of Different blockchains as seperate unconnected "islands". Some have bridges to other islands and others do not. Its important to recognize that interoperability is a siginficant factor to app development and blockchain usage. Ethereum virtual machine (EVM) are blockchains coded using the solidity programming language. Eth also uses this and therefore there exists a high degree of compatability across EVM blockchains. EVM blockchains are still unique but interoperability is a lot easier and smoother. SOL and BTC for instance are not EVM and require dedicated and seperate app and smartcontract development. Yet in principle most blockchains are analogous to one another, thus familarity with one suffices.
 
 Ethereum (ETH)
 [EthScan](https://etherscan.io/)
@@ -48,7 +52,7 @@ Bitcoin (BTC)
 
 
 
-##Transaction/Wallet Tracing##
+## Transaction/Wallet Tracing ##
 Interacting direclty on chain can be a tricky experience. There is still much room for increased user protection and security. Therefore understanding smart contracts that you and your wallets interact is very important. In addition because the information in public blockchains its a public a good practice to personally verify instead of trust! The tools below help verify transactions, documentation and smartcontract history. Useful for due dilligence and general onchain awareness.
 
 1. [Arkham Intelligence](https://www.arkhamintelligence.com/)
@@ -126,17 +130,36 @@ These use cases demonstrate the versatility and potential of decentralized appli
 ## Section 5: Resources
 
 **Books**
-Blockchain Technology Explained
-The Basics of Bitcoins and Blockchains
-Blockchain Bubble or Revolution
-Bitcoin Clarity
-Inventing Bitcoin
-Mastering Bitcoin: Unlocking Digital Cryptocurrencies
 
+Below are some books/links that can really increase one's degree of knowledge over the industry and most importantly the technology empowering it.
+
+[Blockchain Technology Explained](https://www.amazon.com/Blockchain-Technology-Explained-Beginners-Contracts/dp/1981522026)
+
+[The Basics of Bitcoins and Blockchains](https://www.amazon.it/Basics-Bitcoins-Blockchains-Introduction-Cryptocurrencies/dp/1633538001)
+
+[Blockchain Bubble or Revolution](https://www.amazon.com/Blockchain-Bubble-Revolution-Present-Cryptocurrencies/dp/0578528150)
+
+[Bitcoin Clarity](https://www.amazon.com/Bitcoin-Clarity-Understanding-Kiara-Bickers/dp/1733871292)
+
+[Inventing Bitcoin](https://www.amazon.it/Inventing-Bitcoin-Technology-Decentralized-Explained/dp/1794326316)
+
+[Mastering Bitcoin: Unlocking Digital Cryptocurrencies](https://www.amazon.com/Mastering-Bitcoin-Unlocking-Digital-Cryptocurrencies/dp/1449374042)
+
+
+## Blockchain Courses ##
+
+Free courses that can further deepen your knowledge and learn more about blockchain technology!
+
+
+[Blockchain Basics](https://www.coursera.org/learn/blockchain-basics?irclickid=RcPRvOSFHxyPWYMS1GQke3goUkHTD1RK23oo0M0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3294490&utm_content=b2c)
+
+[Blockchain Fundamentals](https://www.pluralsight.com/courses/blockchain-fundamentals?clickid=RcPRvOSFHxyPWYMS1GQke3goUkHTD3y623oo0M0&irgwc=1&mpid=1193463&?aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius)
 
 ## Subsection 6.1: FAQ.md
 ## Subsection 6.2: Forum-links
 
 Given the dynamic and quick event pace in the Blockchain industry its important to be monitor the latest regulatory developments. [EU Commission](https://blockchain-observatory.ec.europa.eu/reports_en) is a good place to start.
+
+
 
 
