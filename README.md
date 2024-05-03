@@ -53,7 +53,11 @@ A crucial component of blockchains is the concept of smart contracts, which are 
 
 ### 1.2) Articles And Useful Reading
 
+Satoshi's Nakamoto's, creator of Bitcoin, Whitepaper.
+
 [Satoshi Nakamoto's Famous Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
+
+[Enterprise Blockchain types](https://www.astrakode.tech/blockchain/enterprise-blockchain-platforms/)
 
 
 
