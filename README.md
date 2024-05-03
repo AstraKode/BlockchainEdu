@@ -9,7 +9,10 @@
   1.1 History
  
   1.2 Articles
-  
+   
+   * Bitcoin's Whitepaper
+   * Blockchain for Enterprise use
+   * 
   1.3 Videos 
    
    * CoinBureau
