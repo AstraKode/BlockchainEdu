@@ -1,21 +1,35 @@
 ### Table of Contents ###
 ##### Table of Contents  
 ## Headers
-1) [Blockchain Basics](https://www.youtpube.com/@CoinBureau)
-1.1) Articles
-1.2) Videos
-1.3) Articles
-1.4) Tools
-1.5) Transaction Tracing and Wallet Tracing
-2) Blockchain News
-3) Technical Tutorials
-3.1) Smart Contracs
-3.2) Dapps Development
-4) Use cases
-5) Resources
-6)  Blockchain Courses
-6.1)  FAQ
-6.2) Forum and links
+## 1) [Blockchain Basics](https://www.youtpube.com/@CoinBureau) ##
+
+### 1.1) Articles ###
+
+### 1.2) Videos ###
+
+### 1.3) Articles ###
+
+### 1.4) Tools ###
+
+### 1.5) Transaction Tracing and Wallet Tracing ###
+
+## 2) Blockchain News ##
+
+## 3) Technical Tutorials ##
+
+### 3.1) Smart Contracs ###
+
+### 3.2) Dapps Development ###
+
+## 4) Use cases ##
+
+## 5) Resources ##
+
+## 6)  Blockchain Courses ##
+
+### 6.1)  FAQ ###
+
+### 6.2) Forum and links ###
 
 
 
