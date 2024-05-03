@@ -1,11 +1,59 @@
-### Table of Contents ###
-##### Table of Contents  
-## Headers
+
+## Table of Contents
+
+<details>
+  <summary>Table of Contents</summary>
+  
+  ### 1. Blockchain Basics
+  
+  1.1 History
+  1.2 Articles
+  
+  1.3 Videos 
+   
+   * CoinBureau
+   * Blockchain Explained
+   * Introduction to Defi
+   * Blockchain Valuation
+  
+  1.4 Tools
+ 
+  1.5 Transaction and Wallet Tracing
+  * Arkham Intelligence
+  * MetaSleuth
+
+
+### 2. Blockchain News
+
+### 3. Technical Tutorials
+
+3.1 Smart Contracs
+
+3.2 Dapps Development
+
+### 4. Use cases
+
+### 5. Resources
+
+### 6. Blockchain Courses
+
+6.1 FAQ
+
+6.2 Forum and links
+       
+
+
+</details>
+
+
+
+
+
+
+
 ## 1) [Blockchain Basics](https://www.youtpube.com/@CoinBureau) ##
 
-### 1.1) Articles ###
 
-### 1.2) Videos ###
 
 ### 1.3) Articles ###
 
