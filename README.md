@@ -56,6 +56,9 @@
 ## 1) Blockchain-basics
 This section is dedicated towards providing materials and resouces in understanding Blockchain, some of its basic components.
 
+### Timeline of Blockchain development
+
+
 ![image](https://github.com/AstraKode/Edu/assets/166728920/d01fb54f-3fcc-4bb1-9721-6deeb1970b1d)
 
 
