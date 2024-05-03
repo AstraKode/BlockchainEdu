@@ -1,3 +1,24 @@
+### Table of Contents ###
+##### Table of Contents  
+## Headers
+1) [Blockchain Basics](https://www.youtpube.com/@CoinBureau)
+1.1) Articles
+1.2) Videos
+1.3) Articles
+1.4) Tools
+1.5) Transaction Tracing and Wallet Tracing
+2) Blockchain News
+3) Technical Tutorials
+3.1) Smart Contracs
+3.2) Dapps Development
+4) Use cases
+5) Resources
+6)  Blockchain Courses
+6.1)  FAQ
+6.2) Forum and links
+
+
+
 ## 1) Blockchain-basics
 This section is dedicated towards providing materials and resouces in understanding Blockchain, some of its basic components.
 
@@ -146,7 +167,7 @@ Below are some books/links that can really increase one's degree of knowledge ov
 [Mastering Bitcoin: Unlocking Digital Cryptocurrencies](https://www.amazon.com/Mastering-Bitcoin-Unlocking-Digital-Cryptocurrencies/dp/1449374042)
 
 
-## Blockchain Courses ##
+## 6) Blockchain Courses ##
 
 Free courses that can further deepen your knowledge and learn more about blockchain technology!
 
