@@ -2,7 +2,7 @@
 ## Table of Contents
 
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Repository Contents</summary>
   
   ### 1. Blockchain Basics
   
