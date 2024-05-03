@@ -1,7 +1,7 @@
 ## Section 1: Blockchain-basics
 This section is dedicated towards providing materials and resouces in understanding Blockchain, some of its basic components.
 
-### Subsection 1.1: History
+### Section 1.1: History
 Blockchain technology, first proposed in the early 1980s, gained practical implementation with the advent of Bitcoin, the pioneering public blockchain. Essentially, a blockchain serves as a digital, decentralized ledger, operating on the premise of network support by nodes. Transactions or events within a blockchain require validation by these nodes. Once approved, the transaction becomes immutable, meaning it cannot be altered.
 
 In 2008, during Bitcoin's early stages, an anonymous internet user under the pseudonym Satoshi Nakamoto published Bitcoin's whitepaper, outlining the technology and its potential use cases. Blockchain transactions utilize cryptographic algorithms for validation, with Bitcoin employing a consensus mechanism known as proof of work, which involves solving mathematical problems. This mechanism has undergone several modifications, with other blockchains adopting variants, notably Ethereum, which employs a different consensus system called proof of stake.
@@ -14,13 +14,13 @@ A crucial component of blockchains is the concept of smart contracts, which are 
 
 
 
-### Subsection 1.2: Articles
+### Section 1.2: Articles
 
 
 
 
 
-### Subsection 1.3: Videos and Creators 
+### Section 1.3: Videos and Creators 
 The following youtube channel, [CoinBureau](https://www.youtube.com/@CoinBureau) is the largest and most popular youtube account discussing and educating all things related to Blockchain and cryptocurrency. From news to latests innovations CoinBureau is a must watch for any Blockchain enthusiast or professional!
 
 __Helpful Videos outlining some basic components__
@@ -37,7 +37,7 @@ __Helpful Videos outlining some basic components__
 
 
 
-### Subsection 1.4: Tools
+### Section 1.4: Tools
 
 Blockchain explorers are tools to view and explore all the information on a blockchain including, transactions, blocks, addresses, and network metrics. Its useful to think of Different blockchains as seperate unconnected "islands". Some have bridges to other islands and others do not. Its important to recognize that interoperability is a siginficant factor to app development and blockchain usage. Ethereum virtual machine (EVM) are blockchains coded using the solidity programming language. Eth also uses this and therefore there exists a high degree of compatability across EVM blockchains. EVM blockchains are still unique but interoperability is a lot easier and smoother. SOL and BTC for instance are not EVM and require dedicated and seperate app and smartcontract development. Yet in principle most blockchains are analogous to one another, thus familarity with one suffices.
 
@@ -70,12 +70,12 @@ The following websites are specialized news outlets in all things related to Web
 
 
 ## Section 3: Technical-tutorials
-## Subsection 3.1: Smart-contracts
+## Section 3.1: Smart-contracts
 Welcome to our educational repository on smart contracts, your go-to resource for mastering the intricacies of blockchain-based programmable agreements. Dive into our comprehensive collection of tutorials, code snippets, and best practices meticulously curated by experts in the field. Whether you're a novice eager to explore the fundamentals or a seasoned developer seeking advanced techniques, our repository offers a structured learning path to empower you in understanding, creating, and deploying smart contracts across various blockchain platforms. Join our community of enthusiasts, collaborate on projects, and unlock the transformative potential of decentralized applications with confidence and expertise.
 
 Smart contracts are self-executing contracts with the terms of the agreement directly written into code. They run on blockchain networks, which ensure their immutable execution and decentralization. Essentially, smart contracts automate and enforce the negotiation or performance of a contract, eliminating the need for intermediaries and increasing transparency and security in transactions. These contracts are triggered by predefined conditions coded into them, and once these conditions are met, the contract executes automatically. Smart contracts have broad applications, ranging from financial transactions and supply chain management to decentralized applications (DApps) and tokenization of assets. They are revolutionizing industries by streamlining processes, reducing costs, and enhancing trust in digital interactions.
 
-## Subsection 3.2: Dapp-development
+## Section 3.2: Dapp-development
 
 Developing decentralized applications (DApps) involves several key steps to ensure their functionality, security, and usability. Here's a basic outline of the process:
 
@@ -155,8 +155,8 @@ Free courses that can further deepen your knowledge and learn more about blockch
 
 [Blockchain Fundamentals](https://www.pluralsight.com/courses/blockchain-fundamentals?clickid=RcPRvOSFHxyPWYMS1GQke3goUkHTD3y623oo0M0&irgwc=1&mpid=1193463&?aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius)
 
-## Subsection 6.1: FAQ.md
-## Subsection 6.2: Forum-links
+## Section 6.1: FAQ.md
+## Section 6.2: Forum-links
 
 Given the dynamic and quick event pace in the Blockchain industry its important to be monitor the latest regulatory developments. [EU Commission](https://blockchain-observatory.ec.europa.eu/reports_en) is a good place to start.
 
