@@ -21,8 +21,7 @@
    * Blockchain Valuation
   
   1.4 Tools
- 
-  1.5 Transaction and Wallet Tracing
+  Transaction and Wallet Tracing
   * Arkham Intelligence
   * MetaSleuth
 
@@ -105,7 +104,10 @@ __Helpful Videos outlining some basic components__
 
 ### 1.4) Tools
 
-Blockchain explorers are tools to view and explore all the information on a blockchain including, transactions, blocks, addresses, and network metrics. Its useful to think of Different blockchains as seperate unconnected "islands". Some have bridges to other islands and others do not. Its important to recognize that interoperability is a siginficant factor to app development and blockchain usage. Ethereum virtual machine (EVM) are blockchains coded using the solidity programming language. Eth also uses this and therefore there exists a high degree of compatability across EVM blockchains. EVM blockchains are still unique but interoperability is a lot easier and smoother. SOL and BTC for instance are not EVM and require dedicated and seperate app and smartcontract development. Yet in principle most blockchains are analogous to one another, thus familarity with one suffices.
+Blockchain explorers are tools to view and explore all the information on a blockchain including, transactions, blocks, addresses, and network metrics. Its useful to think of Different blockchains as seperate unconnected "islands". Some have bridges to other islands and others do not. Its important to recognize that interoperability is a siginficant factor to app development and blockchain usage. Ethereum virtual machine (EVM) are blockchains coded using the solidity programming language. Eth also uses this and therefore there exists a high degree of compatability across EVM blockchains. EVM blockchains are still unique but interoperability is a lot easier and smoother. 
+
+> [!Tip]
+> SOL and BTC not EVM compatible and require dedicated and seperate apps and smartcontract development. In principle though most blockchains are analogous to one another, thus familarity with one generally suffices for understanding basic concepts of others.
 
 Ethereum (ETH)
 [EthScan](https://etherscan.io/)
