@@ -1,8 +1,42 @@
 
 ## Table of Contents
 
-<details>
-  <summary>Repository Contents</summary>
+<details open>
+  <summary>Table of Contents</summary>
+
+  * <details open><summary>1   Blockchain Basics</a></summary><ul>
+     <li><details><summary> 1.1 <a href=""> History </a> </summary> <ul> 
+           <li>1.1 <a href=""> Third 1a </a> </li>
+           <li>1.2 <a href=""> Third 2a</a> </li>
+           <li>1.3 <a href=""> Third 3a</a> </li>
+     </ul></details></li> <!-- End 1 -->
+     <li><details><summary> 2 <a href=""> Blockchain News </a> </summary> <ul> 
+     </ul></details></li> <!-- End  2-->
+     <li><details><summary> 3 <a href=""> Technical Tutorials </a> </summary> <ul> 
+           <li>1.1 <a href=""> Third 1a </a> </li>
+           <li>1.2 <a href=""> Third 2a</a> </li>
+           <li>1.3 <a href=""> Third 3a</a> </li>
+     </ul></details></li> <!-- End 3 -->
+     <li><details><summary> 4 <a href=""> Use Cases </a> </summary> <ul> 
+           <li>1.1 <a href=""> Third 1a </a> </li>
+           <li>1.2 <a href=""> Third 2a</a> </li>
+           <li>1.3 <a href=""> Third 3a</a> </li>
+     </ul></details></li> <!-- End 4 -->
+     <li><details><summary> 5 <a href=""> Resources </a> </summary> <ul> 
+           <li>1.1 <a href=""> Third 1a </a> </li>
+           <li>1.2 <a href=""> Third 2a</a> </li>
+           <li>1.3 <a href=""> Third 3a</a> </li>
+            </ul></details></li> <!-- End 5 -->
+     <li><details><summary> 6 <a href=""> Blockchain Courses </a> </summary> <ul> \
+           <li>1.1 <a href=""> Third 1a </a> </li>
+           <li>1.2 <a href=""> Third 2a</a> </li>
+           <li>1.3 <a href=""> Third 3a</a> </li>
+    
+   </ul> <!-- End -->
+  </details>
+
+
+
   
   ### 1. Blockchain Basics
   
@@ -21,9 +55,10 @@
    * Blockchain Valuation
   
   1.4 Tools
+  
   Transaction and Wallet Tracing
-  * Arkham Intelligence
-  * MetaSleuth
+   * Arkham Intelligence
+   * MetaSleuth
 
 
 ### 2. Blockchain News
