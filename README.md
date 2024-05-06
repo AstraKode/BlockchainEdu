@@ -61,65 +61,6 @@
       <li><summary> 6 <a href=""> FAQ </a> </summary> <ul> 
           </ul></details></li> <!-- End  5-->
     
-    
-
-
-
-   
-sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
-  
- 
-
-
-  
-  ### 1. Blockchain Basics
-  
-  1.1 History
- 
-  1.2 Articles
-   
-   * Bitcoin's Whitepaper
-   * Blockchain for Enterprise use
-   * 
-  1.3 Videos 
-   
-   * CoinBureau
-   * Blockchain Explained
-   * Introduction to Defi
-   * Blockchain Valuation
-  
-  1.4 Tools
-  
-  Transaction and Wallet Tracing
-   * Arkham Intelligence
-   * MetaSleuth
-
-
-### 2. Blockchain News
-
-### 3. Technical Tutorials
-
-3.1 Smart Contracs
-
-3.2 Dapps Development
-
-### 4. Use cases
-
-### 5. Resources
-
-### 6. Blockchain Courses
-
-6.1 FAQ
-
-6.2 Forum and links
-       
-
-
-</details>
-
-
-
-
 
 ## 1) Blockchain-basics
 This section is dedicated towards providing materials and resouces in understanding Blockchain, some of its basic components.
