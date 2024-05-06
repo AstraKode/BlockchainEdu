@@ -7,11 +7,9 @@
 
 
 
-  * <details open><summary> <a href="#"> 1 Blockchain Basics</a></summary><ul>
+  * <details open><summary> <a href=""> 1 Blockchain Basics</a></summary><ul>
      
-      <li>1.1 <a href=""> History </a> </li>
-    </ul></details></li> <!-- End 1.1 -->
-    
+    <li>1.1 <a href=""> History </a> </li>
     <li><details open><summary> 1.2 <a href=""> Articles and Useful Reading </a> </summary> <ul> 
            <li>1.2.1 <a href=""> Satoshi Nakamoto's White Paper </a> </li>
            <li>1.2.2 <a href=""> Enterprise Blockchain types</a> </li>
@@ -30,7 +28,7 @@
            </ul></details></li> <!-- End  1.4-->
     
     <li>1.5 <a href=""> PLACE HOLDER</a> </li>
-
+    </ul></details></li> <!-- End  1-->
     <li><details open><summary> 2 <a href=""> Blockchain News </a> </summary> <ul> 
            <li>2.1.1 <a href=""> CoinDesk </a> </li>
            <li>2.2.1 <a href=""> Cointelegraph</a> </li>
@@ -54,13 +52,14 @@
            <li>5.1.5 <a href=""> Bitcoin Clarity </a> </li>
            <li>5.1.6 <a href=""> Inventing Bitcoin </a> </li>
            <li>5.1.7 <a href=""> Mastering Bitcoin: Unlocking Digital Cryptocurrencies </a> </li>
+           <li>5.2 <a href=""> Blockchain Free Courses </a> </li>
+           <li>5.2.1 <a href=""> Blockchain Basics </a> </li>
+           <li>5.2.2 <a href=""> Blockchain Fundamentals </a> </li>
+           <li>5.4 <a href=""> Forums </a> </li>
            </ul></details></li> <!-- End  5-->
-    
-    <li><details open><summary> 6 <a href=""> Blockchain Courses </a> </summary> <ul> 
-           <li>6.1 <a href=""> FAQ </a> </li>
-           <li>6.2 <a href=""> Foru-Links </a> </li>
-           </ul></details></li> <!-- End  6-->
 
+      <li><summary> 6 <a href=""> FAQ </a> </summary> <ul> 
+          </ul></details></li> <!-- End  5-->
     
     
 
