@@ -90,11 +90,11 @@ The following youtube channel, [CoinBureau](https://www.youtube.com/@CoinBureau)
 
 __Helpful Videos outlining some basic components__
 
-[Blockchain explained: The technology that’s transforming the world of finance](https://www.youtube.com/watch?v=rheYU5Q3-Uk&ab_channel=euronews)
+* [Blockchain explained: The technology that’s transforming the world of finance](https://www.youtube.com/watch?v=rheYU5Q3-Uk&ab_channel=euronews)
 
-[New to DeFi? Decentralised Wallets vs. Centralised Wallets Explained](https://www.youtube.com/watch?v=s3MxJVprlnc&ab_channel=CryptoCom)
+* [New to DeFi? Decentralised Wallets vs. Centralised Wallets Explained](https://www.youtube.com/watch?v=s3MxJVprlnc&ab_channel=CryptoCom)
 
-[10 BEST Bitcoin Valuation Metrics & Tools](https://www.youtube.com/watch?v=5Gv6PstA6jI&ab_channel=CoinBureau)
+* [10 BEST Bitcoin Valuation Metrics & Tools](https://www.youtube.com/watch?v=5Gv6PstA6jI&ab_channel=CoinBureau)
 
 
 
@@ -104,19 +104,27 @@ __Helpful Videos outlining some basic components__
 
 ### 1.4) Tools
 
-Blockchain explorers are tools to view and explore all the information on a blockchain including, transactions, blocks, addresses, and network metrics. Its useful to think of Different blockchains as seperate unconnected "islands". Some have bridges to other islands and others do not. Its important to recognize that interoperability is a siginficant factor to app development and blockchain usage. Ethereum virtual machine (EVM) are blockchains coded using the solidity programming language. Eth also uses this and therefore there exists a high degree of compatability across EVM blockchains. EVM blockchains are still unique but interoperability is a lot easier and smoother. 
+Blockchain explorers are tools to view and explore all the information on a blockchain including, transactions, blocks, addresses, and network metrics.  Its important to recognize that interoperability is a siginficant factor to app development and blockchain usage. Ethereum virtual machine (EVM) are blockchains coded using the solidity programming language. Eth also uses this and therefore there exists a high degree of compatability across EVM blockchains. EVM blockchains are still unique but interoperability is a lot easier and smoother. 
+
+Ethereum Explorer(ETH)
+* [EthScan](https://etherscan.io/)
+
+Solana Explorer(SOL)
+* [SolScan](https://solscan.io/)
+
+Bitcoin Explorer(BTC)
+* [BTCScan](https://btcscan.org/)
+  
+> [!Warning]
+> SOL and BTC not EVM compatible and require dedicated and seperate apps and smartcontract development.
 
 > [!Tip]
-> SOL and BTC not EVM compatible and require dedicated and seperate apps and smartcontract development. In principle though most blockchains are analogous to one another, thus familarity with one generally suffices for understanding basic concepts of others.
+> Its useful to think of Different blockchains as seperate unconnected "islands". Some have bridges to other islands and others do not.
 
-Ethereum (ETH)
-[EthScan](https://etherscan.io/)
+> [!Tip]
+> In principle though most blockchains are analogous to one another, thus familarity with one generally suffices for understanding basic concepts of others.
 
-Solana (SOL)
-[SolScan](https://solscan.io/)
 
-Bitcoin (BTC)
-[BTCScan](https://btcscan.org/)
 
 
 
