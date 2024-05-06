@@ -9,51 +9,64 @@
 
   * <details open><summary> <a href="#"> 1 Blockchain Basics</a></summary><ul>
      
-    <li>1.1 <a href=""> History </a> </li>
+      <li>1.1 <a href=""> History </a> </li>
+    </ul></details></li> <!-- End 1.1 -->
     
     <li><details open><summary> 1.2 <a href=""> Articles and Useful Reading </a> </summary> <ul> 
            <li>1.2.1 <a href=""> Satoshi Nakamoto's White Paper </a> </li>
            <li>1.2.2 <a href=""> Enterprise Blockchain types</a> </li>
-           
-     </ul></details></li> <!-- End 1.2 -->
-     <li><details open><summary> 1.3 <a href=""> Videos and Creators </a> </summary> <ul> 
+            </ul></details></li> <!-- End 1.2 -->
+
+    <li><details open><summary> 1.3 <a href=""> Videos and Creators </a> </summary> <ul> 
            <li>1.3.1 <a href=""> CoinBureau</a> </li>
            <li>1.3.2 <a href=""> Blockchain Explained</a> </li>
            <li>1.3.3 <a href=""> New to defi?</a> </li>
            <li>1.3.4 <a href=""> Bitcoin Valuation Metrics</a> </li>
-     </ul></details open></li> <!-- End  1.3-->
+           </ul></details open></li> <!-- End  1.3-->
 
-     <li><details open><summary> 1.4 <a href=""> Tools </a> </summary> <ul> 
+    <li><details open><summary> 1.4 <a href=""> Tools </a> </summary> <ul> 
            <li>1.4.1 <a href=""> Explorers</a> </li>
            <li>1.4.2 <a href=""> Transaction and Wallet Tracing</a> </li>
-     </ul></details></li> <!-- End  1.4-->
+           </ul></details></li> <!-- End  1.4-->
     
-     <li>1.5 <a href=""> PLACE HOLDER</a> </li>
-   </ul> <!-- End 1.5 -->
-  
+    <li>1.5 <a href=""> PLACE HOLDER</a> </li>
 
-  *  <li><details open><summary> <a href=""> 2 Articles and Useful Reading </a> </summary> <ul> 
+    <li><details open><summary> 2 <a href=""> Blockchain News </a> </summary> <ul> 
            <li>2.1.1 <a href=""> CoinDesk </a> </li>
            <li>2.2.1 <a href=""> Cointelegraph</a> </li>
-           
-     </ul></details></li> <!-- End 1 -->
-     <li><details open><summary> 1.3 <a href=""> Videos and Creators </a> </summary> <ul> 
-           <li>1.3.1 <a href=""> CoinBureau</a> </li>
-           <li>1.3.2 <a href=""> Blockchain Explained</a> </li>
-           <li>1.3.3 <a href=""> New to defi?</a> </li>
-           <li>1.3.4 <a href=""> Bitcoin Valuation Metrics</a> </li>
-     </ul></details open></li> <!-- End  2-->
-
-     <li><details open><summary> 1.4 <a href=""> Tools </a> </summary> <ul> 
-           <li>1.4.1 <a href=""> Explorers</a> </li>
-           <li>1.4.2 <a href=""> Transaction and Wallet Tracing</a> </li>
-     </ul></details></li> <!-- End  2-->
-    
-     <li>1.5 <a href=""> PLACE HOLDER</a> </li>
-   </ul> <!-- End -->
-  </details>
+           </ul></details></li> <!-- End  2-->
+     
+    <li><details open><summary> 3 <a href=""> Articles and Useful Reading </a> </summary> <ul> 
+           <li>3.1 <a href=""> Smart Contracts </a> </li>
+           <li>3.2 <a href=""> Dapp Development</a> </li>
+           </ul></details></li> <!-- End  3-->
   
+    <li><details open><summary> 4 <a href=""> Uses Cases </a> </summary> <ul> 
+           <li>4.1 <a href=""> Smart Contracts </a> </li>
+           <li>4.2 <a href=""> Dapp Development</a> </li>
+           </ul></details></li> <!-- End  4-->
+     
+    <li><details open><summary> 5 <a href=""> Resources </a> </summary> <ul> 
+           <li>5.1 <a href=""> Books </a> </li>
+           <li>5.1.2 <a href=""> Blockchain Technology Explained </a> </li>
+           <li>5.1.3 <a href=""> The Basics of Bitcoins and Blockchains </a> </li>
+           <li>5.1.4 <a href=""> Blockchain Bubble or Revolution </a> </li>
+           <li>5.1.5 <a href=""> Bitcoin Clarity </a> </li>
+           <li>5.1.6 <a href=""> Inventing Bitcoin </a> </li>
+           <li>5.1.7 <a href=""> Mastering Bitcoin: Unlocking Digital Cryptocurrencies </a> </li>
+           </ul></details></li> <!-- End  5-->
+    
+    <li><details open><summary> 6 <a href=""> Blockchain Courses </a> </summary> <ul> 
+           <li>6.1 <a href=""> FAQ </a> </li>
+           <li>6.2 <a href=""> Foru-Links </a> </li>
+           </ul></details></li> <!-- End  6-->
 
+    
+    
+
+
+
+   
 sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
   
  
