@@ -9,7 +9,7 @@
 
   * <details open><summary> 1 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> Blockchain Basics</a></summary><ul>
      
-    <li>1.1 <a href=""> History </a> </li>
+    <li>1.1 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> History </a> </li>
     <li><details open><summary> 1.2 <a href=""> Articles and Useful Reading </a> </summary> <ul> 
            <li>1.2.1 <a href=""> Satoshi Nakamoto's White Paper </a> </li>
            <li>1.2.2 <a href=""> Enterprise Blockchain types</a> </li>
