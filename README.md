@@ -68,7 +68,7 @@ This section is dedicated towards providing materials and resouces in understand
 ### Timeline of Blockchain development
 
 
-![image](https://github.com/AstraKode/Edu/assets/166728920/d01fb54f-3fcc-4bb1-9721-6deeb1970b1d)
+![image](https://github.com/AstraKode/Edu/assets/166728920/5f9c32de-986b-4348-97f4-4cb9ad421b56)
 
 
 ### 1.1) History
@@ -81,6 +81,8 @@ While specific details may vary, the fundamental concept remains consistent: val
 A crucial component of blockchains is the concept of smart contracts, which are self-executing, programmable contracts integrated into the blockchain. This integration allows for the realization of the advantages of decentralized ledger technology (DLT). Blockchain types vary, encompassing Public chains, characterized by universal data transparency, Private chains, which restrict access to permissioned users, and Consortium Blockchains, a hybrid type enabling public and private access to specific individuals and aspects.
 
 ![image](https://github.com/AstraKode/Edu/assets/166728920/923efaee-24f4-4861-abf5-01e0c36e61a9)
+
+
 
 
 ### 1.2) Articles And Useful Reading
