@@ -7,7 +7,7 @@
 
 
 
-  * <details open><summary> <a href=""> 1 Blockchain Basics</a></summary><ul>
+  * <details open><summary> 1 <a href=""> Blockchain Basics</a></summary><ul>
      
     <li>1.1 <a href=""> History </a> </li>
     <li><details open><summary> 1.2 <a href=""> Articles and Useful Reading </a> </summary> <ul> 
