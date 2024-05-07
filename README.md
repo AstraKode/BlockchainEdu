@@ -80,7 +80,10 @@ While specific details may vary, the fundamental concept remains consistent: val
 
 A crucial component of blockchains is the concept of smart contracts, which are self-executing, programmable contracts integrated into the blockchain. This integration allows for the realization of the advantages of decentralized ledger technology (DLT). Blockchain types vary, encompassing Public chains, characterized by universal data transparency, Private chains, which restrict access to permissioned users, and Consortium Blockchains, a hybrid type enabling public and private access to specific individuals and aspects.
 
-![image](https://github.com/AstraKode/Edu/assets/166728920/923efaee-24f4-4861-abf5-01e0c36e61a9)
+
+>[!Note]
+>_Basics differences between Digital ledger and a typical database_
+>![image](https://github.com/AstraKode/Edu/assets/166728920/923efaee-24f4-4861-abf5-01e0c36e61a9)
 
 
 
