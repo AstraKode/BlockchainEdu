@@ -10,16 +10,16 @@
   * <details open><summary> 1 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> Blockchain Basics</a></summary><ul>
      
     <li>1.1 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> History </a> </li>
-    <li><details open><summary> 1.2 <a href=""> Articles and Useful Reading </a> </summary> <ul> 
-           <li>1.2.1 <a href=""> Satoshi Nakamoto's White Paper </a> </li>
-           <li>1.2.2 <a href=""> Enterprise Blockchain types</a> </li>
+    <li><details open><summary> 1.2 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> Articles and Useful Reading </a> </summary> <ul> 
+           <li>1.2.1 <a href="https://bitcoin.org/bitcoin.pdf"> Satoshi Nakamoto's White Paper </a> </li>
+           <li>1.2.2 <a href="https://www.astrakode.tech/blockchain/enterprise-blockchain-platforms/"> Enterprise Blockchain types</a> </li>
             </ul></details></li> <!-- End 1.2 -->
 
-    <li><details open><summary> 1.3 <a href=""> Videos and Creators </a> </summary> <ul> 
-           <li>1.3.1 <a href=""> CoinBureau</a> </li>
-           <li>1.3.2 <a href=""> Blockchain Explained</a> </li>
-           <li>1.3.3 <a href=""> New to defi?</a> </li>
-           <li>1.3.4 <a href=""> Bitcoin Valuation Metrics</a> </li>
+    <li><details open><summary> 1.3 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> Videos and Creators </a> </summary> <ul> 
+           <li>1.3.1 <a href="https://www.youtube.com/@CoinBureau"> CoinBureau</a> </li>
+           <li>1.3.2 <a href="https://www.youtube.com/watch?v=rheYU5Q3-Uk&ab_channel=euronews"> Blockchain Explained</a> </li>
+           <li>1.3.3 <a href="https://www.youtube.com/watch?v=s3MxJVprlnc&ab_channel=CryptoCom"> New to defi?</a> </li>
+           <li>1.3.4 <a href="https://www.youtube.com/watch?v=5Gv6PstA6jI&ab_channel=CoinBureau"> Bitcoin Valuation Metrics</a> </li>
            </ul></details open></li> <!-- End  1.3-->
 
     <li><details open><summary> 1.4 <a href=""> Tools </a> </summary> <ul> 
@@ -30,8 +30,8 @@
     <li>1.5 <a href=""> PLACE HOLDER</a> </li>
     </ul></details></li> <!-- End  1-->
     <li><details open><summary> 2 <a href=""> Blockchain News </a> </summary> <ul> 
-           <li>2.1.1 <a href=""> CoinDesk </a> </li>
-           <li>2.2.1 <a href=""> Cointelegraph</a> </li>
+           <li>2.1.1 <a href="https://www.coindesk.com/"> CoinDesk </a> </li>
+           <li>2.2.1 <a href="https://cointelegraph.com/"> Cointelegraph</a> </li>
            </ul></details></li> <!-- End  2-->
      
     <li><details open><summary> 3 <a href=""> Articles and Useful Reading </a> </summary> <ul> 
@@ -51,10 +51,10 @@
            <li>5.1.4 <a href=""> Blockchain Bubble or Revolution </a> </li>
            <li>5.1.5 <a href=""> Bitcoin Clarity </a> </li>
            <li>5.1.6 <a href=""> Inventing Bitcoin </a> </li>
-           <li>5.1.7 <a href=""> Mastering Bitcoin: Unlocking Digital Cryptocurrencies </a> </li>
+           <li>5.1.7 <a href="https://www.amazon.com/Mastering-Bitcoin-Unlocking-Digital-Cryptocurrencies/dp/1449374042"> Mastering Bitcoin: Unlocking Digital Cryptocurrencies </a> </li>
            <li>5.2 <a href=""> Blockchain Free Courses </a> </li>
-           <li>5.2.1 <a href=""> Blockchain Basics </a> </li>
-           <li>5.2.2 <a href=""> Blockchain Fundamentals </a> </li>
+           <li>5.2.1 <a href="https://www.coursera.org/learn/blockchain-basics?irclickid=RcPRvOSFHxyPWYMS1GQke3goUkHTD1RK23oo0M0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3294490&utm_content=b2c"> Blockchain Basics </a> </li>
+           <li>5.2.2 <a href="https://www.pluralsight.com/courses/blockchain-fundamentals?clickid=RcPRvOSFHxyPWYMS1GQke3goUkHTD3y623oo0M0&irgwc=1&mpid=1193463&?aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius"> Blockchain Fundamentals </a> </li>
            <li>5.4 <a href=""> Forums </a> </li>
            </ul></details></li> <!-- End  5-->
 
