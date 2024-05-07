@@ -22,29 +22,29 @@
            <li>1.3.4 <a href="https://www.youtube.com/watch?v=5Gv6PstA6jI&ab_channel=CoinBureau"> Bitcoin Valuation Metrics</a> </li>
            </ul></details open></li> <!-- End  1.3-->
 
-    <li><details open><summary> 1.4 <a href=""> Tools </a> </summary> <ul> 
+    <li><details open><summary> 1.4 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#14-tools"> Tools </a> </summary> <ul> 
            <li>1.4.1 <a href=""> Explorers</a> </li>
            <li>1.4.2 <a href=""> Transaction and Wallet Tracing</a> </li>
            </ul></details></li> <!-- End  1.4-->
     
     <li>1.5 <a href=""> PLACE HOLDER</a> </li>
     </ul></details></li> <!-- End  1-->
-    <li><details open><summary> 2 <a href=""> Blockchain News </a> </summary> <ul> 
+    <li><details open><summary> 2 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#2-blockchain-news"> Blockchain News </a> </summary> <ul> 
            <li>2.1.1 <a href="https://www.coindesk.com/"> CoinDesk </a> </li>
            <li>2.2.1 <a href="https://cointelegraph.com/"> Cointelegraph</a> </li>
            </ul></details></li> <!-- End  2-->
      
-    <li><details open><summary> 3 <a href=""> Articles and Useful Reading </a> </summary> <ul> 
-           <li>3.1 <a href=""> Smart Contracts </a> </li>
-           <li>3.2 <a href=""> Dapp Development</a> </li>
+    <li><details open><summary> 3 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#3-technical-tutorials"> Articles and Useful Reading </a> </summary> <ul> 
+           <li>3.1 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#31-smart-contracts"> Smart Contracts </a> </li>
+           <li>3.2 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#32-dapp-development"> Dapp Development</a> </li>
            </ul></details></li> <!-- End  3-->
   
-    <li><details open><summary> 4 <a href=""> Uses Cases </a> </summary> <ul> 
+    <li><details open><summary> 4 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#4-use-cases"> Uses Cases </a> </summary> <ul> 
            <li>4.1 <a href=""> Smart Contracts </a> </li>
-           <li>4.2 <a href=""> Dapp Development</a> </li>
+           <li>4.2 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#32-dapp-development"> Dapp Development</a> </li>
            </ul></details></li> <!-- End  4-->
      
-    <li><details open><summary> 5 <a href=""> Resources </a> </summary> <ul> 
+    <li><details open><summary> 5 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#5-resources"> Resources </a> </summary> <ul> 
            <li>5.1 <a href=""> Books </a> </li>
            <li>5.1.2 <a href=""> Blockchain Technology Explained </a> </li>
            <li>5.1.3 <a href=""> The Basics of Bitcoins and Blockchains </a> </li>
