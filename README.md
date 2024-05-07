@@ -69,8 +69,8 @@ This section is dedicated towards providing materials and resouces in understand
 ![image](https://github.com/AstraKode/Edu/assets/166728920/890da54b-9069-451e-885e-5623793a0aba)
 
 
-### 1.1) History
-Blockchain technology, first proposed in the early 1980s, gained practical implementation with the advent of Bitcoin, the pioneering public blockchain. Essentially, a blockchain serves as a digital, decentralized ledger, operating on the premise of network support by nodes. Transactions or events within a blockchain require validation by these nodes. Once approved, the transaction becomes immutable, meaning it cannot be altered.
+### 1.1) Brief History
+Blockchain technology, first proposed in the early 1980s, gained practical implementation with the advent of Bitcoin, the 1st and a pioneer for public blockchains. A blockchain in essence, serves as a digital, decentralized ledger, and operates on the premise of a network supported by nodes. Transactions or events within a blockchain require validation by these nodes. Once approved, the transaction becomes immutable, meaning it cannot be altered. And if public can always be viewed.
 
 In 2008, during Bitcoin's early stages, an anonymous internet user under the pseudonym Satoshi Nakamoto published Bitcoin's whitepaper, outlining the technology and its potential use cases. Blockchain transactions utilize cryptographic algorithms for validation, with Bitcoin employing a consensus mechanism known as proof of work, which involves solving mathematical problems. This mechanism has undergone several modifications, with other blockchains adopting variants, notably Ethereum, which employs a different consensus system called proof of stake.
 
