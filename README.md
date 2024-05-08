@@ -1,7 +1,7 @@
 
 ## Table of Contents
 
-<details open>
+<details >
   <summary>Table of Contents</summary>
 
 <details open><summary> 1 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> Blockchain Basics</a></summary><ul>
@@ -140,7 +140,7 @@ Bitcoin Explorer(BTC)
 * [BTCScan](https://btcscan.org/)
   
 >[!Warning]
->SOL and BTC not EVM compatible and require dedicated and seperate apps and smartcontract development.
+>SOL and BTC are not EVM compatible and require dedicated and seperate apps and smartcontract development.
 
 >[!Tip]
 >Its useful to think of Different blockchains as seperate unconnected "islands". Some have bridges to other islands and others do not.
