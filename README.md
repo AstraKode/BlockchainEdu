@@ -4,75 +4,80 @@
 <details open>
   <summary>Table of Contents</summary>
 
-
-
-
-  * <details open><summary> 1 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> Blockchain Basics</a></summary><ul>
+<details open><summary> 1 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> Blockchain Basics</a></summary><ul>
      
-    <li>1.1 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> History </a> </li>
+  1.1 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> History </a>
     
-    <li><details open><summary> 1.2 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> Articles and Useful Reading </a> </summary> <ul> 
+  <details open><summary> 1.2 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> Articles and Useful Reading </a> </summary> <ul> 
            <li>1.2.1 <a href="https://bitcoin.org/bitcoin.pdf"> Satoshi Nakamoto's White Paper </a> </li>
            <li>1.2.2 <a href="https://www.astrakode.tech/blockchain/enterprise-blockchain-platforms/"> Enterprise Blockchain types</a> </li>
-            </ul></details></li> <!-- End 1.2 -->
+            </ul></details> <!-- End 1.2 -->
 
-    <li><details open><summary> 1.3 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> Videos and Creators </a> </summary> <ul> 
+  <details open><summary> 1.3 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> Videos and Creators </a> </summary> <ul> 
            <li>1.3.1 <a href="https://www.youtube.com/@CoinBureau"> CoinBureau</a> </li>
            <li>1.3.2 <a href="https://www.youtube.com/watch?v=rheYU5Q3-Uk&ab_channel=euronews"> Blockchain Explained</a> </li>
            <li>1.3.3 <a href="https://www.youtube.com/watch?v=s3MxJVprlnc&ab_channel=CryptoCom"> New to defi?</a> </li>
            <li>1.3.4 <a href="https://www.youtube.com/watch?v=5Gv6PstA6jI&ab_channel=CoinBureau"> Bitcoin Valuation Metrics</a> </li>
-           </ul></details open></li> <!-- End  1.3-->
+           </ul></details open> <!-- End  1.3-->
 
-    <li><details open><summary> 1.4 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#14-tools"> Tools </a> </summary> <ul> 
+  <details open><summary> 1.4 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#14-tools"> Tools </a> </summary> <ul> 
            <li>1.4.1 <a href=""> Explorers</a> </li>
            <li>1.4.2 <a href=""> Transaction and Wallet Tracing</a> </li>
-           </ul></details></li> <!-- End  1.4-->
+           </ul></details open> <!-- End  1.4-->
     
-    <li>1.5 <a href=""> PLACE HOLDER</a> </li>
-    </ul></details></li> <!-- End  1-->
-  
-    <li><details open><summary> 2 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#2-blockchain-news"> Blockchain News </a> </summary> <ul> 
-           <li>2.1 <a href="https://www.coindesk.com/"> CoinDesk </a> </li>
-           <li>2.2 <a href="https://cointelegraph.com/"> Cointelegraph</a> </li>
-           </ul></details></li> <!-- End  2-->
-     
-    <li><details open><summary> 3 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#3-technical-tutorials"> Articles and Useful Reading </a> </summary> <ul> 
-           <li>3.1 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#31-smart-contracts"> Smart Contracts </a> </li>
-           <li>3.2 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#32-dapp-development"> Dapp Development</a> </li>
-           </ul></details></li> <!-- End  3-->
-  
-    <li><details open><summary> 4 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#4-use-cases"> Uses Cases </a> </summary> <ul> 
-           <li>4.1 <a href=""> Smart Contracts </a> </li>
-           <li>4.2 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#32-dapp-development"> Dapp Development</a> </li>
-           </ul></details></li> <!-- End  4-->
-     
-    <li><details open><summary> 5 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#5-resources"> Resources </a> </summary> <ul> 
-          
-    <li><details open><summary> 5.1 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> Books </a> </summary> <ul> 
-          <li>5.1.2 <a href="https://bitcoin.org/bitcoin.pdf"> Satoshi Nakamoto's White Paper </a> </li>
-          <li>5.1.3 <a href="https://www.astrakode.tech/blockchain/enterprise-blockchain-platforms/"> Enterprise Blockchain types</a> </li>
-          <li>5.1.2 <a href=""> Blockchain Technology Explained </a> </li>
-          <li>5.1.3 <a href=""> The Basics of Bitcoins and Blockchains </a> </li>
-          <li>5.1.4 <a href=""> Blockchain Bubble or Revolution </a> </li>
-          <li>5.1.5 <a href=""> Bitcoin Clarity </a> </li>
-          <li>5.1.6 <a href=""> Inventing Bitcoin </a> </li>
-  
-    <li><details open><summary> 5.2 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> Books </a> </summary> <ul> 
-           <li>5.2 <a href=""> Blockchain Free Courses </a> </li>
-           <li>5.2.1 <a href="https://www.coursera.org/learn/blockchain-basics?irclickid=RcPRvOSFHxyPWYMS1GQke3goUkHTD1RK23oo0M0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3294490&utm_content=b2c"> Blockchain Basics </a> </li>
-           <li>5.2.2 <a href="https://www.pluralsight.com/courses/blockchain-fundamentals?clickid=RcPRvOSFHxyPWYMS1GQke3goUkHTD3y623oo0M0&irgwc=1&mpid=1193463&?aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius"> Blockchain Fundamentals </a> </li>
-           
-      <li>5.3 <a href=""> Forums </a> </li>
-           </ul></details></li> <!-- End  5-->
+   1.5 <a href=""> PLACE HOLDER</a> </li>
+           </ul></details> <!-- End  1.5-->
 
-      <li><summary> 6 <a href=""> FAQ </a> </summary> <ul> 
-          </ul></details></li> <!-- End  5-->
+   <details open><summary> 2 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#2-blockchain-news"> Blockchain News </a> </summary> <ul> 
+           <li> 2.1 <a href="https://www.coindesk.com/"> CoinDesk </a> </li>
+           <li> 2.2 <a href="https://cointelegraph.com/"> Cointelegraph</a> </li>
+           </ul></details> <!-- End  2-->
+
+  
+   <details open><summary> 3 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#2-blockchain-news"> Blockchain News </a> </summary> <ul> 
+           <li> 3.1 <a href="https://www.coindesk.com/"> CoinDesk </a> </li>
+           <li> 3.2 <a href="https://cointelegraph.com/"> Cointelegraph</a> </li>
+           </ul></details> <!-- End  3-->
+     
+  <details open><summary> 4 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#3-technical-tutorials"> Articles and Useful Reading </a> </summary> <ul> 
+           <li>4.1 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#31-smart-contracts"> Smart Contracts </a> </li>
+           <li>4.2 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#32-dapp-development"> Dapp Development</a> </li>
+           </ul></details open> <!-- End  4-->
+  
+  <details open><summary> 5 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#4-use-cases"> Uses Cases </a> </summary> <ul> 
+           <li>5.1 <a href=""> Smart Contracts </a> </li>
+           <li>5.2 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#32-dapp-development"> Dapp Development</a> </li>
+           </ul></details open> <!-- End  5-->
+     
+   <details open><summary> 6 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#5-resources"> Resources </a> </summary> <ul> 
           
+   <details open><summary> 6.1 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> Books </a> </summary> <ul> 
+          <li>6.1.2 <a href="https://bitcoin.org/bitcoin.pdf"> Satoshi Nakamoto's White Paper </a> </li>
+          <li>6.1.3 <a href="https://www.astrakode.tech/blockchain/enterprise-blockchain-platforms/"> Enterprise Blockchain types</a> </li>
+          <li>6.1.2 <a href=""> Blockchain Technology Explained </a> </li>
+          <li>6.1.3 <a href=""> The Basics of Bitcoins and Blockchains </a> </li>
+          <li>6.1.4 <a href=""> Blockchain Bubble or Revolution </a> </li>
+          <li>6.1.5 <a href=""> Bitcoin Clarity </a></li>
+          <li>6.1.6 <a href=""> Inventing Bitcoin </a></li>
+          </ul></details open> <!-- End  6.1-->
+    
+   <details open><summary> 6.2 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> Blockchain Free Courses </a> </summary> <ul> 
+           <li>6.2.1 <a href="https://www.coursera.org/learn/blockchain-basics?irclickid=RcPRvOSFHxyPWYMS1GQke3goUkHTD1RK23oo0M0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3294490&utm_content=b2c"> Blockchain Basics </a> </li>
+           <li>6.2.2 <a href="https://www.pluralsight.com/courses/blockchain-fundamentals?clickid=RcPRvOSFHxyPWYMS1GQke3goUkHTD3y623oo0M0&irgwc=1&mpid=1193463&?aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius"> Blockchain Fundamentals </a></li>
+           </ul></details open> <!-- End  6.2-->
+          
+   <summary> 6.3 <a href=""> Forums </a> </summary> <ul> 
+           </ul></details></li><!-- End  6.3-->
+   <summary> 7 <a href=""> FAQ </a> </summary> <ul>  
+           </ul></details> <!-- End  7-->
+           
 ## 1) Blockchain-basics
 This section is dedicated towards providing materials and resouces in understanding Blockchain, some of its basic components.
 
 ### Timeline of Blockchain development
-![image](https://github.com/AstraKode/Edu/assets/166728920/890da54b-9069-451e-885e-5623793a0aba)
+
+![image](https://github.com/AstraKode/Edu/assets/166728920/35f3d344-560d-41e1-b57d-8a99742e4b7d)
+
 
 
 ### 1.1) Brief History
@@ -134,14 +139,14 @@ Solana Explorer(SOL)
 Bitcoin Explorer(BTC)
 * [BTCScan](https://btcscan.org/)
   
-> [!Warning]
-> SOL and BTC not EVM compatible and require dedicated and seperate apps and smartcontract development.
+>[!Warning]
+>SOL and BTC not EVM compatible and require dedicated and seperate apps and smartcontract development.
 
-> [!Tip]
-> Its useful to think of Different blockchains as seperate unconnected "islands". Some have bridges to other islands and others do not.
+>[!Tip]
+>Its useful to think of Different blockchains as seperate unconnected "islands". Some have bridges to other islands and others do not.
 
-> [!Tip]
-> In principle though most blockchains are analogous to one another, thus familarity with one generally suffices for understanding basic concepts of others.
+>[!Tip]
+>In principle though most blockchains are analogous to one another, thus familarity with one generally suffices for understanding basic concepts of others.
 
 
 
