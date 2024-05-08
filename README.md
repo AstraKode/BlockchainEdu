@@ -30,8 +30,8 @@
     <li>1.5 <a href=""> PLACE HOLDER</a> </li>
     </ul></details></li> <!-- End  1-->
     <li><details open><summary> 2 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#2-blockchain-news"> Blockchain News </a> </summary> <ul> 
-           <li>2.1.1 <a href="https://www.coindesk.com/"> CoinDesk </a> </li>
-           <li>2.2.1 <a href="https://cointelegraph.com/"> Cointelegraph</a> </li>
+           <li>2.1 <a href="https://www.coindesk.com/"> CoinDesk </a> </li>
+           <li>2.2 <a href="https://cointelegraph.com/"> Cointelegraph</a> </li>
            </ul></details></li> <!-- End  2-->
      
     <li><details open><summary> 3 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#3-technical-tutorials"> Articles and Useful Reading </a> </summary> <ul> 
@@ -45,17 +45,22 @@
            </ul></details></li> <!-- End  4-->
      
     <li><details open><summary> 5 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#5-resources"> Resources </a> </summary> <ul> 
-           <li>5.1 <a href=""> Books </a> </li>
-           <li>5.1.2 <a href=""> Blockchain Technology Explained </a> </li>
-           <li>5.1.3 <a href=""> The Basics of Bitcoins and Blockchains </a> </li>
-           <li>5.1.4 <a href=""> Blockchain Bubble or Revolution </a> </li>
-           <li>5.1.5 <a href=""> Bitcoin Clarity </a> </li>
-           <li>5.1.6 <a href=""> Inventing Bitcoin </a> </li>
-           <li>5.1.7 <a href="https://www.amazon.com/Mastering-Bitcoin-Unlocking-Digital-Cryptocurrencies/dp/1449374042"> Mastering Bitcoin: Unlocking Digital Cryptocurrencies </a> </li>
+          
+    <li><details open><summary> 5.1 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> Books </a> </summary> <ul> 
+          <li>5.1.2 <a href="https://bitcoin.org/bitcoin.pdf"> Satoshi Nakamoto's White Paper </a> </li>
+          <li>5.1.3 <a href="https://www.astrakode.tech/blockchain/enterprise-blockchain-platforms/"> Enterprise Blockchain types</a> </li>
+          <li>5.1.2 <a href=""> Blockchain Technology Explained </a> </li>
+          <li>5.1.3 <a href=""> The Basics of Bitcoins and Blockchains </a> </li>
+          <li>5.1.4 <a href=""> Blockchain Bubble or Revolution </a> </li>
+          <li>5.1.5 <a href=""> Bitcoin Clarity </a> </li>
+          <li>5.1.6 <a href=""> Inventing Bitcoin </a> </li>
+  
+    <li><details open><summary> 5.2 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> Books </a> </summary> <ul> 
            <li>5.2 <a href=""> Blockchain Free Courses </a> </li>
            <li>5.2.1 <a href="https://www.coursera.org/learn/blockchain-basics?irclickid=RcPRvOSFHxyPWYMS1GQke3goUkHTD1RK23oo0M0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3294490&utm_content=b2c"> Blockchain Basics </a> </li>
            <li>5.2.2 <a href="https://www.pluralsight.com/courses/blockchain-fundamentals?clickid=RcPRvOSFHxyPWYMS1GQke3goUkHTD3y623oo0M0&irgwc=1&mpid=1193463&?aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius"> Blockchain Fundamentals </a> </li>
-           <li>5.4 <a href=""> Forums </a> </li>
+           
+      <li>5.4 <a href=""> Forums </a> </li>
            </ul></details></li> <!-- End  5-->
 
       <li><summary> 6 <a href=""> FAQ </a> </summary> <ul> 
