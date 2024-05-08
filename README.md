@@ -8,12 +8,12 @@
      
   1.1 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> History </a>
     
-  <details open><summary> 1.2 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> Articles and Useful Reading </a> </summary> <ul> 
+  <details open><summary> 1.2 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics)"> Articles and Useful Reading </a> </summary> <ul> 
            <li>1.2.1 <a href="https://bitcoin.org/bitcoin.pdf"> Satoshi Nakamoto's White Paper </a> </li>
            <li>1.2.2 <a href="https://www.astrakode.tech/blockchain/enterprise-blockchain-platforms/"> Enterprise Blockchain types</a> </li>
             </ul></details> <!-- End 1.2 -->
 
-  <details open><summary> 1.3 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> Videos and Creators </a> </summary> <ul> 
+  <details open><summary> 1.3 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics](https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#13-helpful-videos-to-get-you-started)"> Videos to get you started </a> </summary> <ul> 
            <li>1.3.1 <a href="https://www.youtube.com/@CoinBureau"> CoinBureau</a> </li>
            <li>1.3.2 <a href="https://www.youtube.com/watch?v=rheYU5Q3-Uk&ab_channel=euronews"> Blockchain Explained</a> </li>
            <li>1.3.3 <a href="https://www.youtube.com/watch?v=s3MxJVprlnc&ab_channel=CryptoCom"> New to defi?</a> </li>
