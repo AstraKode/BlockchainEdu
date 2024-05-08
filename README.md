@@ -10,6 +10,7 @@
   * <details open><summary> 1 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> Blockchain Basics</a></summary><ul>
      
     <li>1.1 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> History </a> </li>
+    
     <li><details open><summary> 1.2 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> Articles and Useful Reading </a> </summary> <ul> 
            <li>1.2.1 <a href="https://bitcoin.org/bitcoin.pdf"> Satoshi Nakamoto's White Paper </a> </li>
            <li>1.2.2 <a href="https://www.astrakode.tech/blockchain/enterprise-blockchain-platforms/"> Enterprise Blockchain types</a> </li>
@@ -29,6 +30,7 @@
     
     <li>1.5 <a href=""> PLACE HOLDER</a> </li>
     </ul></details></li> <!-- End  1-->
+  
     <li><details open><summary> 2 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#2-blockchain-news"> Blockchain News </a> </summary> <ul> 
            <li>2.1 <a href="https://www.coindesk.com/"> CoinDesk </a> </li>
            <li>2.2 <a href="https://cointelegraph.com/"> Cointelegraph</a> </li>
@@ -60,13 +62,12 @@
            <li>5.2.1 <a href="https://www.coursera.org/learn/blockchain-basics?irclickid=RcPRvOSFHxyPWYMS1GQke3goUkHTD1RK23oo0M0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3294490&utm_content=b2c"> Blockchain Basics </a> </li>
            <li>5.2.2 <a href="https://www.pluralsight.com/courses/blockchain-fundamentals?clickid=RcPRvOSFHxyPWYMS1GQke3goUkHTD3y623oo0M0&irgwc=1&mpid=1193463&?aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius"> Blockchain Fundamentals </a> </li>
            
-      <li>5.4 <a href=""> Forums </a> </li>
+      <li>5.3 <a href=""> Forums </a> </li>
            </ul></details></li> <!-- End  5-->
 
       <li><summary> 6 <a href=""> FAQ </a> </summary> <ul> 
           </ul></details></li> <!-- End  5-->
-    
-
+          
 ## 1) Blockchain-basics
 This section is dedicated towards providing materials and resouces in understanding Blockchain, some of its basic components.
 
@@ -103,10 +104,10 @@ Satoshi's Nakamoto's, creator of Bitcoin, Whitepaper.
 
 
 
-### 1.3) Videos and Creators 
+### 1.3) Helpful Videos to get you started 
 The following youtube channel, [CoinBureau](https://www.youtube.com/@CoinBureau) is the largest and most popular youtube account discussing and educating all things related to Blockchain and cryptocurrency. From news to latests innovations CoinBureau is a must watch for any Blockchain enthusiast or professional!
 
-__Helpful Videos outlining some basic components__
+__Examples__
 
 * [Blockchain explained: The technology that’s transforming the world of finance](https://www.youtube.com/watch?v=rheYU5Q3-Uk&ab_channel=euronews)
 
