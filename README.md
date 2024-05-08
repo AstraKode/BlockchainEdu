@@ -20,7 +20,7 @@
            <li>1.3.4 <a href="https://www.youtube.com/watch?v=5Gv6PstA6jI&ab_channel=CoinBureau"> Bitcoin Valuation Metrics</a> </li>
            </ul></details open> <!-- End  1.3-->
 
-  <details open><summary> 1.4 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#14-tools"> Tools </a> </summary> <ul> 
+  <details open><summary> 1.4 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#14-tools"> Useful Tools </a> </summary> <ul> 
            <li>1.4.1 <a href=""> Explorers</a> </li>
            <li>1.4.2 <a href=""> Transaction and Wallet Tracing</a> </li>
            </ul></details open> <!-- End  1.4-->
