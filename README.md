@@ -28,9 +28,11 @@
    1.5 <a href=""> PLACE HOLDER</a> </li>
            </ul></details> <!-- End  1.5-->
 
-   <details open><summary> 2 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#2-blockchain-news"> Blockchain News </a> </summary> <ul> 
-           <li> 2.1 <a href="https://www.coindesk.com/"> CoinDesk </a> </li>
-           <li> 2.2 <a href="https://cointelegraph.com/"> Cointelegraph</a> </li>
+   <details open><summary> 2 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#2-blockchain-news"> Astrakode </a> </summary> <ul> 
+           <li> 2.1 <a href="https://www.coindesk.com/"> Who we are </a> </li>
+           <li> 2.2 <a href="https://cointelegraph.com/"> Discord </a> </li>
+           <li> 2.3 <a href="https://cointelegraph.com/"> Wiki</a> </li>
+           <li> 2.4 <a href="https://cointelegraph.com/"> Linkedin </a> </li>
            </ul></details> <!-- End  2-->
 
   
@@ -68,6 +70,7 @@
           
    <summary> 6.3 <a href=""> Forums </a> </summary> <ul> 
            </ul></details></li><!-- End  6.3-->
+           
    <summary> 7 <a href=""> FAQ </a> </summary> <ul>  
            </ul></details> <!-- End  7-->
            
@@ -98,8 +101,6 @@ A crucial component of blockchains is the concept of smart contracts, which are 
 
 
 ### 1.2) Articles And Useful Reading
-
-Satoshi's Nakamoto's, creator of Bitcoin, Whitepaper.
 
 [Satoshi Nakamoto's Famous Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 
@@ -152,14 +153,14 @@ Bitcoin Explorer(BTC)
 
 
 
-## 1.5) Transaction/Wallet Tracing ##
+### 1.5) Transaction/Wallet Tracing
 Interacting direclty on chain can be a tricky experience. There is still much room for increased user protection and security. Therefore understanding smart contracts that you and your wallets interact is very important. In addition because the information in public blockchains its a public a good practice to personally verify instead of trust! The tools below help verify transactions, documentation and smartcontract history. Useful for due dilligence and general onchain awareness.
 
 1. [Arkham Intelligence](https://www.arkhamintelligence.com/)
 
 2. [Metasleuth](https://metasleuth.io/)
 
-## 2) Blockchain-news
+## 3) Blockchain-news
 
 The following websites are specialized news outlets in all things related to Web3, cryptocurrencie developments and regulatory updates regarding blockchains. As leaders, Any blockchain related headline usually pops up there before major publications and frequesnt vists are useful in order to get a comprehensive industry outlook.
 
@@ -169,13 +170,13 @@ The following websites are specialized news outlets in all things related to Web
 2. [Cointelegraph](https://cointelegraph.com/)
 
 
-##  3) Technical-tutorials
-## 3.1) Smart-contracts
+##  4) Technical-tutorials
+### 4.1) Smart-contracts
 Welcome to our educational repository on smart contracts, your go-to resource for mastering the intricacies of blockchain-based programmable agreements. Dive into our comprehensive collection of tutorials, code snippets, and best practices meticulously curated by experts in the field. Whether you're a novice eager to explore the fundamentals or a seasoned developer seeking advanced techniques, our repository offers a structured learning path to empower you in understanding, creating, and deploying smart contracts across various blockchain platforms. Join our community of enthusiasts, collaborate on projects, and unlock the transformative potential of decentralized applications with confidence and expertise.
 
 Smart contracts are self-executing contracts with the terms of the agreement directly written into code. They run on blockchain networks, which ensure their immutable execution and decentralization. Essentially, smart contracts automate and enforce the negotiation or performance of a contract, eliminating the need for intermediaries and increasing transparency and security in transactions. These contracts are triggered by predefined conditions coded into them, and once these conditions are met, the contract executes automatically. Smart contracts have broad applications, ranging from financial transactions and supply chain management to decentralized applications (DApps) and tokenization of assets. They are revolutionizing industries by streamlining processes, reducing costs, and enhancing trust in digital interactions.
 
-## 3.2) Dapp-development
+### 4.2) Dapp-development
 
 Developing decentralized applications (DApps) involves several key steps to ensure their functionality, security, and usability. Here's a basic outline of the process:
 
@@ -201,7 +202,7 @@ Developing decentralized applications (DApps) involves several key steps to ensu
 By following these steps, you can successfully develop and deploy a decentralized application that leverages the power of blockchain technology to provide innovative solutions to real-world problems.
 
 
-## 4) Use-cases
+## 5) Use-cases
 
 Below are some basic and simple use cases for decentralized applications (DApps).These use cases demonstrate the versatility and potential of decentralized applications in various industries, offering solutions that are secure, transparent, and efficient, while empowering users with greater control and autonomy over their digital interactions and assets.
 
@@ -227,9 +228,9 @@ Tokenized Asset Exchange: Develop a DApp for tokenizing and trading real-world a
 
 These use cases demonstrate the versatility and potential of decentralized applications in various industries, offering solutions that are secure, transparent, and efficient, while empowering users with greater control and autonomy over their digital interactions and assets.
 
-## 5) Resources
+## 6) Resources
 
-**Books**
+### 6.1) Books
 
 Below are some books/links that can really increase one's degree of knowledge over the industry and most importantly the technology empowering it.
 
@@ -246,7 +247,7 @@ Below are some books/links that can really increase one's degree of knowledge ov
 [Mastering Bitcoin: Unlocking Digital Cryptocurrencies](https://www.amazon.com/Mastering-Bitcoin-Unlocking-Digital-Cryptocurrencies/dp/1449374042)
 
 
-## 6) Blockchain Courses ##
+### 6.2) Blockchain free Courses
 
 Free courses that can further deepen your knowledge and learn more about blockchain technology!
 
@@ -255,10 +256,11 @@ Free courses that can further deepen your knowledge and learn more about blockch
 
 [Blockchain Fundamentals](https://www.pluralsight.com/courses/blockchain-fundamentals?clickid=RcPRvOSFHxyPWYMS1GQke3goUkHTD3y623oo0M0&irgwc=1&mpid=1193463&?aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius)
 
-## 6.1) FAQ.md
-## 6.2) Forum-links
+### 6.3) Forum-links
 
 Given the dynamic and quick event pace in the Blockchain industry its important to be monitor the latest regulatory developments. [EU Commission](https://blockchain-observatory.ec.europa.eu/reports_en) is a good place to start.
+## 7) FAQ.md
+
 
 
 
