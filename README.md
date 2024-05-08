@@ -126,7 +126,7 @@ __Examples__
 
 
 
-### 1.4) Tools
+### 1.4) Useful Tools
 
 Blockchain explorers are tools to view and explore all the information on a blockchain including, transactions, blocks, addresses, and network metrics.  Its important to recognize that interoperability is a siginficant factor to app development and blockchain usage. Ethereum virtual machine (EVM) are blockchains coded using the solidity programming language. Eth also uses this and therefore there exists a high degree of compatability across EVM blockchains. EVM blockchains are still unique but interoperability is a lot easier and smoother. 
 
