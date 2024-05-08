@@ -160,6 +160,15 @@ Interacting direclty on chain can be a tricky experience. There is still much ro
 
 2. [Metasleuth](https://metasleuth.io/)
 
+
+
+## 2) Astrakode
+
+About Us
+
+Discord
+Wiki
+
 ## 3) Blockchain-news
 
 The following websites are specialized news outlets in all things related to Web3, cryptocurrencie developments and regulatory updates regarding blockchains. As leaders, Any blockchain related headline usually pops up there before major publications and frequesnt vists are useful in order to get a comprehensive industry outlook.
