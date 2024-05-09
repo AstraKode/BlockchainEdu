@@ -158,8 +158,12 @@ Interacting direclty on chain can be a tricky experience. There is still much ro
 
 1. [Arkham Intelligence](https://www.arkhamintelligence.com/)
 
+![image](https://github.com/AstraKode/Edu/assets/166728920/1f916f79-4c36-481e-b478-8570a0d514d8)
+
+
 2. [Metasleuth](https://metasleuth.io/)
 
+![image](https://github.com/AstraKode/Edu/assets/166728920/d28272d7-f28a-416d-a79f-d238685c5881)
 
 
 ## 2) Astrakode
