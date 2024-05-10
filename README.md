@@ -31,7 +31,7 @@
    <details open><summary> 2 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#2-blockchain-news"> Astrakode </a> </summary> <ul> 
            <li> 2.1 <a href="https://www.coindesk.com/"> Who we are </a> </li>
            <li> 2.2 <a href="https://cointelegraph.com/"> Discord </a> </li>
-            <li> 2.3 <a href="https://cointelegraph.com/" target="_blank">Wiki</a> </li>
+           <li> 2.3 <a href="https://cointelegraph.com/" target="_blank"></a> </li>
 
            <li> 2.4 <a href="https://cointelegraph.com/"> Linkedin </a> </li>
            </ul></details> <!-- End  2-->
