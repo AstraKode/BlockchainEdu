@@ -29,15 +29,15 @@
            </ul></details> <!-- End  1.5-->
 
    <details open><summary> 2 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#2-blockchain-news"> Astrakode </a> </summary> <ul> 
-           <li> 2.1 <a href="https://www.coindesk.com/"> Who we are </a> </li>
-           <li> 2.2 <a href="https://cointelegraph.com/"> Discord </a> </li>
-           <li> 2.4 <a href="https://cointelegraph.com/"> Linkedin </a> </li>
+           <li> 2.1 <a href=""> Who we are </a> </li>
+           <li> 2.2 <a href=""> Discord </a> </li>
+           <li> 2.4 <a href=""> Linkedin </a> </li>
            </ul></details> <!-- End  2-->
 
   
    <details open><summary> 3 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#3-blockchain-news"> Blockchain News </a> </summary> <ul> 
            <li> 3.1 <a href="https://www.coindesk.com/"> CoinDesk </a> </li>
-           <li> 3.3 <a href="https://cointelegraph.com/" target="_blank">Wiki</a> </li>
+           <li> 3.3 <a href="https://cointelegraph.com/" target="_blank">Cointelegraph</a> </li>
 
            </ul></details> <!-- End  3-->
      
