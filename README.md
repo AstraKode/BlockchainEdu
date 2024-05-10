@@ -41,7 +41,7 @@
            <li> 3.2 <a href="https://cointelegraph.com/"> Cointelegraph</a> </li>
            </ul></details> <!-- End  3-->
      
-  <details open><summary> 4 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#3-technical-tutorials"> Articles and Useful Reading </a> </summary> <ul> 
+  <details open><summary> 4 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#4-technical-tutorials"> Articles and Useful Reading </a> </summary> <ul> 
            <li>4.1 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#31-smart-contracts"> Smart Contracts </a> </li>
            <li>4.2 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#32-dapp-development"> Dapp Development</a> </li>
            </ul></details open> <!-- End  4-->
