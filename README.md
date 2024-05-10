@@ -63,7 +63,7 @@
           <li>6.1.6 <a href=""> Inventing Bitcoin </a></li>
           </ul></details open> <!-- End  6.1-->
     
-   <details open><summary> 6.2 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> Blockchain Free Courses </a> </summary> <ul> 
+   <details open><summary> 6.2 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics](https://github.com/AstraKode/Edu/edit/main/README.md#6-resources)"> Blockchain Free Courses </a> </summary> <ul> 
            <li>6.2.1 <a href="https://www.coursera.org/learn/blockchain-basics?irclickid=RcPRvOSFHxyPWYMS1GQke3goUkHTD1RK23oo0M0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3294490&utm_content=b2c"> Blockchain Basics </a> </li>
            <li>6.2.2 <a href="https://www.pluralsight.com/courses/blockchain-fundamentals?clickid=RcPRvOSFHxyPWYMS1GQke3goUkHTD3y623oo0M0&irgwc=1&mpid=1193463&?aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius"> Blockchain Fundamentals </a></li>
            </ul></details open> <!-- End  6.2-->
