@@ -1,7 +1,7 @@
 
 ## Table of Contents
 
-<details >
+<details open>
   <summary>Table of Contents</summary>
 
 <details open><summary> 1 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> Blockchain Basics</a></summary><ul>
