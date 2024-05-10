@@ -37,7 +37,7 @@
   
    <details open><summary> 3 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#3-blockchain-news"> Blockchain News </a> </summary> <ul> 
            <li> 3.1 <a href="https://www.coindesk.com/"> CoinDesk </a> </li>
-           <li> 3.3 <a href="https://cointelegraph.com/" target="_blank">Cointelegraph</a> </li>
+           <li> 3.1 <a href="https://www.cointelegraph.com/"> Cointelegraph </a> </li>
 
            </ul></details> <!-- End  3-->
      
@@ -73,6 +73,7 @@
            
    <summary> 7 <a href=""> FAQ </a> </summary> <ul>  
            </ul></details> <!-- End  7-->
+
            
 ## 1) Blockchain-basics
 This section is dedicated towards providing materials and resouces in understanding Blockchain, some of its basic components.
