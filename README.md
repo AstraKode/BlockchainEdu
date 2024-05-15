@@ -73,7 +73,7 @@
            <li>6.2.2 <a href="https://www.pluralsight.com/courses/blockchain-fundamentals?clickid=RcPRvOSFHxyPWYMS1GQke3goUkHTD3y623oo0M0&irgwc=1&mpid=1193463&?aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius"> Blockchain Fundamentals </a></li>
            </ul></details open> <!-- End  6.2-->
           
-   <summary> 6.3 <a href=""> Forums </a> </summary> <ul> 
+   <summary> 6.3 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#63-forum-links"> Forums </a> </summary> <ul> 
            </ul></details></li><!-- End  6.3-->
            
    <summary> 7 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#7-faqmd"> FAQ </a> </summary> <ul>  
