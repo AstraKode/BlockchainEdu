@@ -28,7 +28,7 @@
    1.5 <a href=""> PLACE HOLDER</a> </li>
            </ul></details> <!-- End  1.5-->
 
-   <details open><summary> 2 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#2-blockchain-news"> Astrakode </a> </summary> <ul> 
+   <details open><summary> 2 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#2-astrakode"> Astrakode </a> </summary> <ul> 
            <li> 2.1 <a href=""> Who we are </a> </li>
            <li> 2.2 <a href=""> Discord </a> </li>
            <li> 2.4 <a href=""> Linkedin </a> </li>
