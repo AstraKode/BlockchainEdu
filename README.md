@@ -47,7 +47,7 @@
   <details open><summary> 5 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#4-use-cases"> Uses Cases </a> </summary> <ul> 
            </ul></details open> <!-- End  5-->
      
-   <details open><summary> 6 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#5-resources"> Resources </a> </summary> <ul> 
+   <details open><summary> 6 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#6-resources"> Resources </a> </summary> <ul> 
           
    <details open><summary> 6.1 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> Books </a> </summary> <ul> 
           <li>6.1.2 <a href="https://bitcoin.org/bitcoin.pdf"> Satoshi Nakamoto's White Paper </a> </li>
