@@ -1,4 +1,3 @@
-[CoinTelegraph](https://cointelegraph.com/){:target="_blank"}
 
 ## Table of Contents
 
