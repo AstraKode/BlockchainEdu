@@ -76,7 +76,7 @@
    <summary> 6.3 <a href=""> Forums </a> </summary> <ul> 
            </ul></details></li><!-- End  6.3-->
            
-   <summary> 7 <a href=""> FAQ </a> </summary> <ul>  
+   <summary> 7 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#7-faqmd"> FAQ </a> </summary> <ul>  
            </ul></details> <!-- End  7-->
 
            
