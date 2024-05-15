@@ -21,8 +21,8 @@
            </ul></details open> <!-- End  1.3-->
 
   <details open><summary> 1.4 <a href="https://github.com/AstraKode/Edu/blob/main/README.md#14-useful-tools"> Useful Tools </a> </summary> <ul> 
-           <li>1.4.1 <a href=""> Explorers</a> </li>
-           <li>1.4.2 <a href=""> Transaction and Wallet Tracing</a> </li>
+           <li>1.4.1 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#14-useful-tools"> Explorers</a> </li>
+           <li>1.4.2 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#15-transactionwallet-tracing"> Transaction and Wallet Tracing</a> </li>
            </ul></details open> <!-- End  1.4-->
     
    1.5 <a href=""> PLACE HOLDER</a> </li>
