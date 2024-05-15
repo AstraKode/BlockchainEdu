@@ -34,9 +34,9 @@
            <li> 2.4 <a href=""> Linkedin </a> </li>
            </ul></details> <!-- End  2-->
 
-  <details open><summary>3 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#3-blockchain-news" target="_blank">Blockchain News</a></summary><ul>
-            <li>3.1 <a href="https://www.coindesk.com/" target="_blank">CoinDesk</a></li>
-            <li>3.2 <a href="https://www.cointelegraph.com/" target="_blank">Cointelegraph</a></li></ul>
+  <details open><summary>3 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#3-blockchain-news">Blockchain News</a></summary><ul>
+            <li>3.1 <a href="https://www.coindesk.com/">CoinDesk</a></li>
+            <li>3.2 <a href="https://www.cointelegraph.com/">Cointelegraph</a></li></ul>
             </details><!-- End 3-->
 
 
