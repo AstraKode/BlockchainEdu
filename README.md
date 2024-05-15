@@ -6,7 +6,7 @@
 
 <details open><summary> 1 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> Blockchain Basics</a></summary><ul>
      
-  1.1 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> History </a>
+  1.1 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#1-blockchain-basics"> Brief History </a>
     
   <details open><summary> 1.2 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#12-articles-and-useful-reading"> Articles and Useful Reading </a> </summary> <ul> 
            <li>1.2.1 <a href="https://bitcoin.org/bitcoin.pdf"> Satoshi Nakamoto's White Paper </a> </li>
@@ -39,14 +39,12 @@
            <li> 3.1 <a href="https://www.cointelegraph.com/"> Cointelegraph </a> </li>
            </ul></details> <!-- End  3-->
      
-  <details open><summary> 4 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#4-technical-tutorials"> Articles and Useful Reading </a> </summary> <ul> 
+  <details open><summary> 4 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#4-technical-tutorials"> Technical Tutorials </a> </summary> <ul> 
            <li>4.1 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#31-smart-contracts"> Smart Contracts </a> </li>
            <li>4.2 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#32-dapp-development"> Dapp Development</a> </li>
            </ul></details open> <!-- End  4-->
   
   <details open><summary> 5 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#4-use-cases"> Uses Cases </a> </summary> <ul> 
-           <li>5.1 <a href=""> Smart Contracts </a> </li>
-           <li>5.2 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#32-dapp-development"> Dapp Development</a> </li>
            </ul></details open> <!-- End  5-->
      
    <details open><summary> 6 <a href="https://github.com/AstraKode/Edu/edit/main/README.md#5-resources"> Resources </a> </summary> <ul> 
