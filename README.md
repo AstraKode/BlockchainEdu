@@ -24,9 +24,6 @@
            <li>1.4.1 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#14-useful-tools"> Explorers</a> </li>
            <li>1.4.2 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#15-transactionwallet-tracing"> Transaction and Wallet Tracing</a> </li>
            </ul></details open> <!-- End  1.4-->
-    
-   1.5 <a href=""> PLACE HOLDER</a> </li>
-           </ul></details> <!-- End  1.5-->
 
    <details open><summary> 2 <a href="https://github.com/AstraKode/Edu/tree/main?tab=readme-ov-file#2-astrakode"> Astrakode </a> </summary> <ul> 
            <li> 2.1 <a href=""> Who we are </a> </li>
