@@ -162,7 +162,11 @@ Interacting direclty on chain can be a tricky experience. There is still much ro
 
 ## 2) Astrakode
 
-About Us
+About Us:
+
+The story of AstraKode began with a small, dedicated team and has since grown to have a presence in Europe and North America. The company's mission centers on innovation and collaboration, with a strong emphasis on creating an intuitive and customizable low-code platform for blockchain applications. AstraKode's solutions are tailored to various industries, including agri-food, circular economy, energy, and finance, offering pre-built solutions that enhance process transparency and accountability​. Founded by Fabiano Izzo, Lucio Menna, and Damiano D'Amici, AstraKode focuses on combining technical excellence with user-friendly interfaces. The team values a vibrant work culture, providing opportunities for career development, technical training, and flexible work arrangements. The company's core values highlight innovation, collaboration, and community engagement, which are reflected in its dynamic and diverse team​.
+
+AstraKode is a tech company that has carved a niche for itself by simplifying blockchain technology for businesses and developers. The company's flagship product, the AstraKode Blockchain (AKB) platform, allows users to develop and deploy blockchain solutions with minimal coding expertise. This platform features a drag-and-drop configurator, making it accessible to both beginners and experts in blockchain technology​. We offer a low-code platform designed to simplify the development and deployment of blockchain applications. It offers tools like the Network Composer and Smart Contract IDE to help users create and manage blockchain networks with minimal coding. Our platform supports various blockchain technologies, including Hyperledger Fabric and Solidity, and aims to make blockchain development more accessible to non-experts.
 
 [Discord](https://discord.gg/UBxksZZK)
 
