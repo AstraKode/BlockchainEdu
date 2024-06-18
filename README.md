@@ -164,8 +164,9 @@ Interacting direclty on chain can be a tricky experience. There is still much ro
 
 About Us
 
-Discord
-Wiki
+[Discord](https://discord.gg/UBxksZZK)
+
+[Wiki](https://docs.astrakode.tech/akb-wiki)
 
 ## 3) Blockchain-news
 
